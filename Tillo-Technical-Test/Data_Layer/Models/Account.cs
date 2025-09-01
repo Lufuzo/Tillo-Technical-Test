@@ -9,7 +9,7 @@ namespace Data_Layer.Models
     public class Account
     {
         public int AccountId { get; set; }
-        public double Balance { get; set; }
+        public double Balance { get; set; } = 0;
 
     }
 }

@@ -1,0 +1,6 @@
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Service_Layer\obj\Debug\net8.0\Service_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Service_Layer\obj\Debug\net8.0\Service_Layer.AssemblyInfoInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Service_Layer\obj\Debug\net8.0\Service_Layer.AssemblyInfo.cs
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Service_Layer\obj\Debug\net8.0\Service_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Service_Layer\obj\Debug\net8.0\Service_Layer.sourcelink.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Service_Layer\obj\Debug\net8.0\Service_Layer.csproj.AssemblyReference.cache

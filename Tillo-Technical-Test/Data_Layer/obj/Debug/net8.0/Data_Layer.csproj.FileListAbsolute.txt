@@ -1,0 +1,12 @@
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\bin\Debug\net8.0\Data_Layer.deps.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\bin\Debug\net8.0\Data_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\bin\Debug\net8.0\Data_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\obj\Debug\net8.0\Data_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\obj\Debug\net8.0\Data_Layer.AssemblyInfoInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\obj\Debug\net8.0\Data_Layer.AssemblyInfo.cs
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\obj\Debug\net8.0\Data_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\obj\Debug\net8.0\Data_Layer.sourcelink.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\obj\Debug\net8.0\Data_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\obj\Debug\net8.0\refint\Data_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\obj\Debug\net8.0\Data_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Data_Layer\obj\Debug\net8.0\ref\Data_Layer.dll
