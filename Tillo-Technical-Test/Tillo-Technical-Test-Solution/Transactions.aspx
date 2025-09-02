@@ -14,6 +14,7 @@
             <div class="mb-3">
                 <asp:Button ID="btnRefresh" runat="server" Text="Refresh" CssClass="btn btn-primary me-2" OnClick="btnRefresh_Click" />
                 <asp:Button ID="btnSimulate" runat="server" Text="Simulate Transaction" CssClass="btn btn-success" OnClick="btnSimulate_Click" />
+                
             </div>
 
             <asp:Label ID="lblMessage" runat="server" CssClass="text-success fw-bold"></asp:Label>

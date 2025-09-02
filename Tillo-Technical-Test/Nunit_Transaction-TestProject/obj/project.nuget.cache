@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "INZD8u4sN+M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Nunit_Transaction-TestProject\\Nunit_Transaction-TestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\nunit\\4.4.0\\nunit.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

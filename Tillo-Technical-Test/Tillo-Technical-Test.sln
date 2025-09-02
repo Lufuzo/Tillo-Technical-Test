@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tillo-Technical-Test-Soluti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository_Layer", "Repository_Layer\Repository_Layer.csproj", "{9EBF7AB6-297E-43BC-8016-B8C38C979B5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nunit_Transaction-TestProject", "Nunit_Transaction-TestProject\Nunit_Transaction-TestProject.csproj", "{10730C16-BE79-4590-A358-F691E18E47D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{9EBF7AB6-297E-43BC-8016-B8C38C979B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EBF7AB6-297E-43BC-8016-B8C38C979B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EBF7AB6-297E-43BC-8016-B8C38C979B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10730C16-BE79-4590-A358-F691E18E47D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10730C16-BE79-4590-A358-F691E18E47D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10730C16-BE79-4590-A358-F691E18E47D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10730C16-BE79-4590-A358-F691E18E47D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

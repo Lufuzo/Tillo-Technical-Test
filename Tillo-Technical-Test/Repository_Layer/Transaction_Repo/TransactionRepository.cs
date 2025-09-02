@@ -46,7 +46,7 @@ namespace Repository_Layer.Transaction_Repo
             ";
             cmd.ExecuteNonQuery();
 
-            // Seed default account if not exists
+           
             using var check = conn.CreateCommand();
             check.CommandText = "SELECT COUNT(1) FROM Accounts";
             var count = Convert.ToInt32(check.ExecuteScalar());
@@ -75,7 +75,7 @@ namespace Repository_Layer.Transaction_Repo
                     Balance = Convert.ToDecimal(reader.GetDouble(2))
                 };
             }
-            // Shouldn't happen after Initialize, but just in case:
+          
             using var ins = conn.CreateCommand();
             ins.CommandText = "INSERT INTO Accounts(Name, Balance) VALUES('Default', 0); SELECT last_insert_rowid();";
             var id = Convert.ToInt32((long)ins.ExecuteScalar());

@@ -16,7 +16,7 @@ namespace Service_Layer.Repository
         private readonly ITransactionRepository _repo;
         private readonly int _accountId;
 
-        private readonly string _connectionString;
+        private readonly string _connectionString = string.Empty;
         public TransactionService(ITransactionRepository repo)
         {
             _repo = repo ?? throw new ArgumentNullException(nameof(repo));
