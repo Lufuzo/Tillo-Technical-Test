@@ -8,16 +8,16 @@ namespace Data_Layer.Models
 {
     public class Transaction
     {
-        public string TransactionId { get; set; } = string.Empty;
-         public string TransactionDescription { get; set; } = string.Empty;
-        public string Type { get; set; } = string.Empty;
-        public DateTime TimeStamp { get; set; }
 
-        public double Amount { get; set; } = 0;
-
-        public string Reciever { get; set; } = string.Empty;
-        public string Status { get; set; } = string.Empty;
-
+      
+        public string TransactionId { get; set; } = Guid.NewGuid().ToString("N");
+        public int AccountId { get; set; }
+        public TransactionType Type { get; set; }
+        public decimal Amount { get; set; }
+        public string Receiver { get; set; } = string.Empty;
+        public string Description { get; set; } = string.Empty;
+        public DateTime Timestamp { get; set; } = DateTime.UtcNow;
+        public TransactionStatus Status { get; set; } = TransactionStatus.Success;
 
     }
 }

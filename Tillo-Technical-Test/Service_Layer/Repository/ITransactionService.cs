@@ -11,9 +11,10 @@ namespace Service_Layer.Repository
     public interface ITransactionService
     {
 
-      Data_Layer.Models.Transaction Deposit(double amount, string description);
-        //Transaction Withdraw(decimal amount, string description);
-        //Transaction Transfer(decimal amount, string receiver, string description);
-        //List<Transaction> GetTransactions();
+        Data_Layer.Models.Transaction Deposit(decimal amount, string description);
+        Data_Layer.Models.Transaction Withdraw(decimal amount, string description);
+        Data_Layer.Models.Transaction Transfer(decimal amount, string receiver, string description);
+        decimal GetBalance();
+        IEnumerable<Data_Layer.Models.Transaction> History(int top = 500);
     }
 }
