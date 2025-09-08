@@ -4,6 +4,55 @@
     "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Nunit_Transaction-TestProject\\Nunit_Transaction-TestProject.csproj": {}
   },
   "projects": {
+    "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Data_Layer\\Data_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Data_Layer\\Data_Layer.csproj",
+        "projectName": "Data_Layer",
+        "projectPath": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Data_Layer\\Data_Layer.csproj",
+        "packagesPath": "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Data_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lungelo Mbalane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Nunit_Transaction-TestProject\\Nunit_Transaction-TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +80,14 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Data_Layer\\Data_Layer.csproj": {
+                "projectPath": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Data_Layer\\Data_Layer.csproj"
+              },
+              "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Repository_Layer\\Repository_Layer.csproj": {
+                "projectPath": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Repository_Layer\\Repository_Layer.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -50,9 +106,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[9.0.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.14.1, )"
+            },
             "NUnit": {
               "target": "Package",
               "version": "[4.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[5.1.0, )"
             }
           },
           "imports": [
@@ -72,6 +144,73 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Repository_Layer\\Repository_Layer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Repository_Layer\\Repository_Layer.csproj",
+        "projectName": "Repository_Layer",
+        "projectPath": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Repository_Layer\\Repository_Layer.csproj",
+        "packagesPath": "C:\\Users\\Lungelo Mbalane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Repository_Layer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lungelo Mbalane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Data_Layer\\Data_Layer.csproj": {
+                "projectPath": "C:\\Users\\Lungelo Mbalane\\OneDrive\\Documents\\Visual Studio 2022\\Tillo Technical Test\\Tillo-Technical-Test\\Data_Layer\\Data_Layer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[2.1.11, )"
+            },
+            "SQLite": {
+              "target": "Package",
+              "version": "[3.13.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

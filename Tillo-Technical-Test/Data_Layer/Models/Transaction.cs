@@ -8,8 +8,6 @@ namespace Data_Layer.Models
 {
     public class Transaction
     {
-
-      
         public string TransactionId { get; set; } = Guid.NewGuid().ToString("N");
         public int AccountId { get; set; }
         public TransactionType Type { get; set; }
@@ -18,6 +16,8 @@ namespace Data_Layer.Models
         public string Description { get; set; } = string.Empty;
         public DateTime Timestamp { get; set; } = DateTime.UtcNow;
         public TransactionStatus Status { get; set; } = TransactionStatus.Success;
+        public bool Success { get; set; }
+        public Object Message   { get; set; }
 
     }
 }

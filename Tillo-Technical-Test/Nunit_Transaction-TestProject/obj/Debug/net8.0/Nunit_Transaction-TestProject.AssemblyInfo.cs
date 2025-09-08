@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nunit_Transaction-TestProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94d9836484f0ae9c684636e59c3cdce54bccbf5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beed5598831a20585e9f2af32d1b10e425d1bde6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nunit_Transaction-TestProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nunit_Transaction-TestProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

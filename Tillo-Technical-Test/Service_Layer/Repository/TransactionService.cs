@@ -26,7 +26,7 @@ namespace Service_Layer.Repository
 
         public decimal GetBalance() => _repo.GetAccount(_accountId).Balance;
 
-        public IEnumerable<Data_Layer.Models.Transaction> History(int top = 500) => _repo.GetTransactions(top);
+        public IEnumerable<Data_Layer.Models.Transaction> History(int top = 500) => _repo.GetHistory(top);
 
         public Data_Layer.Models.Transaction Deposit(decimal amount, string description)
         {
@@ -109,6 +109,8 @@ namespace Service_Layer.Repository
             _repo.AddTransaction(record);
             return record;
         }
+
+      
 
     }
 }

@@ -3,3 +3,8 @@
 ################################################################################
 
 /Tillo-Technical-Test/Data_Layer/Models/TransactionStatus.cs
+
+# Ignore SQLite database files
+*.db
+*.db-shm
+*.db-wal

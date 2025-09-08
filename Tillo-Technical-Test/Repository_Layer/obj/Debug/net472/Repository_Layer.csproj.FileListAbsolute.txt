@@ -1,0 +1,16 @@
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\bin\Debug\net472\Repository_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\bin\Debug\net472\Repository_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\bin\Debug\net472\Microsoft.Data.Sqlite.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\bin\Debug\net472\SQLitePCLRaw.core.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\bin\Debug\net472\System.Data.SQLite.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\bin\Debug\net472\Data_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\bin\Debug\net472\Data_Layer.pdb
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\obj\Debug\net472\Repository_Layer.csproj.AssemblyReference.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\obj\Debug\net472\Repository_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\obj\Debug\net472\Repository_Layer.AssemblyInfoInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\obj\Debug\net472\Repository_Layer.AssemblyInfo.cs
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\obj\Debug\net472\Repository_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\obj\Debug\net472\Repository_Layer.sourcelink.json
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\obj\Debug\net472\Reposito.C9099ADE.Up2Date
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\obj\Debug\net472\Repository_Layer.dll
+C:\Users\Lungelo Mbalane\OneDrive\Documents\Visual Studio 2022\Tillo Technical Test\Tillo-Technical-Test\Repository_Layer\obj\Debug\net472\Repository_Layer.pdb

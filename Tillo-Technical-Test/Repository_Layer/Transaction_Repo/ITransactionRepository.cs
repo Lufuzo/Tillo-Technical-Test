@@ -14,6 +14,6 @@ namespace Repository_Layer.Transaction_Repo
         Account GetAccount(int id);
         void UpdateAccount(Account account);
         void AddTransaction(Transaction record);
-        IEnumerable<Transaction> GetTransactions(int top = 500);
+        IEnumerable<Transaction> GetHistory(int top = 500);
     }
 }

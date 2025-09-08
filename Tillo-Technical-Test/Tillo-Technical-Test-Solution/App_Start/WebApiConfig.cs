@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace Tillo_Technical_Test_Solution
 {
@@ -9,6 +10,7 @@ namespace Tillo_Technical_Test_Solution
     {
         public static void Register(HttpConfiguration config)
         {
+            config.EnableCors(new EnableCorsAttribute("*", "*", "*"));
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(

@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Tillo-Technical-Test-Solution\\Tillo-Technical-Test-Solution.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
